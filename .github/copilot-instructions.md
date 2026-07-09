@@ -1,6 +1,6 @@
 ## Language Integrity
 
-- Make sure to use constants, function, and class names that are documented (developer.4d.com) or used elsewhere in the project.
+- Make sure to use constants, functions, and class names that are documented (developer.4d.com) or used elsewhere in the project.
 
 ```4d
 // BAD: non-existent constant
