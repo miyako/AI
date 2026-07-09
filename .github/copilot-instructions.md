@@ -21,6 +21,6 @@ var $ds : cs.DataStoreImplementation
 ```4d
  // BAD: non-empty folder can't be deleted  
 $folder.delete()
-```
 // GOOD: force delete non-empty folder
 $folder.delete(Delete with contents)
+```
